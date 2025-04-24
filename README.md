@@ -8,7 +8,7 @@ Este repositorio contiene una simulación de phishing con fines académicos y de
 
 ## 🧰 Tecnologías utilizadas
 
-- HTML + CSS + JS
+- HTML + CSS
 - PHP
 - MySQL
 - XAMPP / LocalTunnel (para pruebas locales y externas)
